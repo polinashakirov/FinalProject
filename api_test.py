@@ -1,3 +1,5 @@
+# Иващенко Полина, 24-я когорта — Финальный проект. Инженер по тестированию плюс
+
 import requests
 
 SERVER_URL = 'https://590a62da-12d2-464d-8f74-dae9debb27a3.serverhub.praktikum-services.ru'
