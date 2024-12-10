@@ -1,0 +1,1 @@
+SERVER_URL = 'https://71ddf9d4-c0e0-48eb-86a2-a2a6d347c820.serverhub.praktikum-services.ru'
